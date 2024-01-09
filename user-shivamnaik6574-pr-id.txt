@@ -2,3 +2,9 @@ Commit ID: 5e405cec906d8f7a1bf3fa4e118a5cc1b52daaa0
 Author: shivamnaik6574
 Commit Message: Create commiter.yml
 Date: Tue Jan  9 10:02:33 UTC 2024
+Commit ID: 18b37ddfb7f1c02c00df3b1f9c5937b0eb6be108
+Author: shivamnaik6574
+Commit Message: Merge pull request #9 from shivamnaik6574/shivamnaik6574-patch-1
+
+Create CODEOWNERS
+Date: Tue Jan  9 11:49:53 UTC 2024
